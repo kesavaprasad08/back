@@ -1,7 +1,7 @@
 
-# WordPress Theme Setup Guide
+# Music Marketplace Setup Guide
 
-This guide explains how to set up the WordPress site using the Beats by Sonaar theme, configure user roles, marketplace, feeds, and add custom CSS.
+This guide explains how to set up the Music Marketplace using the Beats by Sonaar theme, configure user roles, marketplace, feeds, and add custom CSS.
 
 ---
 
